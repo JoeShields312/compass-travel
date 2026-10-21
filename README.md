@@ -2,20 +2,6 @@
 
 A cinematic, interactive 3D globe travel dashboard built with HTML, CSS, JavaScript, and Three.js.
 
-## Run locally
-
-From this folder, run:
-
-```sh
-python -m http.server 8000
-```
-
-Open http://localhost:8000 in a modern browser with WebGL support. Serve the files over HTTP; opening index.html directly will prevent JavaScript modules from loading. No build step or npm dependencies are required.
-
-## Upload to GitHub
-
-Extract the ZIP and upload the contents of the `compass` folder to your repository root. Keep the assets folder and its structure intact. The included `.nojekyll` file makes this a straightforward static GitHub Pages project; configure Pages to serve the repository root from your chosen branch.
-
 ## Files
 
 - `index.html`: dashboard markup and Explore dialog
