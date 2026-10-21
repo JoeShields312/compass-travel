@@ -1,0 +1,67 @@
+{
+  "cape-town": {
+    "photographer": "xandro Vandewalle",
+    "source": "https://unsplash.com/photos/f4FebZsyUG0",
+    "license": "https://unsplash.com/license"
+  },
+  "new-york": {
+    "photographer": "Jan Folwarczny",
+    "source": "https://unsplash.com/photos/ZXBPMnNVtlE",
+    "license": "https://unsplash.com/license"
+  },
+  "london": {
+    "photographer": "Sandy Ravaloniaina",
+    "source": "https://unsplash.com/photos/rPKrfbYAx3A",
+    "license": "https://unsplash.com/license"
+  },
+  "tokyo": {
+    "photographer": "Wenhao Ruan",
+    "source": "https://unsplash.com/photos/jR_djoNFLw0",
+    "license": "https://unsplash.com/license"
+  },
+  "lisbon": {
+    "photographer": "Aleksandr Zaitsev",
+    "source": "https://unsplash.com/photos/zEFfW3kXQR8",
+    "license": "https://unsplash.com/license"
+  },
+  "bali": {
+    "photographer": "Lina Bob",
+    "source": "https://unsplash.com/photos/wwsX-qyq8eA",
+    "license": "https://unsplash.com/license"
+  },
+  "chicago": {
+    "photographer": "Unsplash",
+    "source": "https://unsplash.com/s/photos/chicago-wallpaper",
+    "license": "https://unsplash.com/license"
+  },
+  "los-angeles": {
+    "photographer": "Daryan Shamkhali",
+    "source": "https://unsplash.com/photos/7iWySmm8qX8",
+    "license": "https://unsplash.com/license"
+  },
+  "munich": {
+    "photographer": "Elisa Chircop",
+    "source": "https://unsplash.com/photos/SZCrhTRD5ws",
+    "license": "https://unsplash.com/license"
+  },
+  "moscow": {
+    "photographer": "Nikolay Vorobyev",
+    "source": "https://unsplash.com/photos/jaH3QF46gAY",
+    "license": "https://unsplash.com/license"
+  },
+  "dublin": {
+    "photographer": "Sophie Popplewell",
+    "source": "https://unsplash.com/photos/blDB0HbjB1k",
+    "license": "https://unsplash.com/license"
+  },
+  "kauai": {
+    "photographer": "Karsten Winegeart",
+    "source": "https://unsplash.com/photos/ZBUesmAQapY",
+    "license": "https://unsplash.com/license"
+  },
+  "sydney": {
+    "photographer": "Sung Jin Cho",
+    "source": "https://unsplash.com/photos/ExxQWn50WCg",
+    "license": "https://unsplash.com/license"
+  }
+}
